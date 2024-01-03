@@ -9,11 +9,7 @@ const questions = [
     {
         category: "Reasoning",
         question: "Which figure is the odd one out?",
-        options: ["A:Circle", 
-                    "B:Square",
-                     " C :Triangle", 
-                     "D :Rectangle"],
-
+        options: ["Circle", "Square","Triangle","Rectangle"],
         correctAnswer: "A :Circle",
     },
     {
@@ -21,7 +17,8 @@ const questions = [
         question: "If RED is coded as 27, how is BLUE coded?",
         options: ["48", "49", "50", "51"],
         correctAnswer: "50",
-    },
+    }, 
+    
     {
         category: "Reasoning",
         question: "Complete the series: 3, 6, 9, 12, ___?",
