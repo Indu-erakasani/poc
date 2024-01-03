@@ -2,9 +2,10 @@
 
 # source "https://rubygems.org"
 
-# # gem "rails"
+# gem "rails"
 
+# ruby '2.7.0'
 
 source "https://rubygems.org"
 
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
